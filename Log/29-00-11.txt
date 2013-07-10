@@ -1,0 +1,33 @@
+
+=== Log Entry ===
+
+ApplicationName : Mapping
+
+ComponentName : mappingF
+
+MethodName : Page_Load
+29-6-2011 17:01:11
+Error Message:this is a test message29-6-2011
+__________________________
+
+=== Log Entry ===
+
+ApplicationName : Mapping
+
+ComponentName : mappingF
+
+MethodName : Page_Load
+29-6-2011 17:01:24
+Error Message:this is a test message29-6-2011
+__________________________
+
+=== Log Entry ===
+
+ApplicationName : Mapping
+
+ComponentName : mappingF
+
+MethodName : Page_Load
+29-6-2011 17:01:29
+Error Message:this is a test message29-6-2011
+__________________________
